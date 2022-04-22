@@ -1,5 +1,5 @@
 # SmartIOC
 
-## ×Ô¶¨ÒåÊµÏÖIOCÈİÆ÷£¬Ö§³ÖÊôĞÔºÍ½Ó¿Ú·½Ê½×¢Èë
-½Ó¿Ú IDependencyService
-ÊôĞÔ PropertyInjectAttribute
+## è‡ªå®šä¹‰å®ç°IOCå®¹å™¨ï¼Œæ”¯æŒå±æ€§å’Œæ¥å£æ–¹å¼æ³¨å…¥
+* æ¥å£ IDependencyService
+* å±æ€§ PropertyInjectAttribute
